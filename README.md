@@ -82,5 +82,5 @@ Game ini memungkinkan pemain untuk mengendalikan seekor burung yang harus melewa
 * Tampilan "Game Over" dan petunjuk untuk restart muncul
 * Pemain dapat me-restart game dengan menekan tombol 'R'
 
-# Dokuemntasi 
+# Dokumentasi
 ![Deskripsi Gambar](Screenshots/SCREEN-RECORD.gif)
