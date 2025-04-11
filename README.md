@@ -72,10 +72,10 @@ Game ini memungkinkan pemain untuk mengendalikan seekor burung yang harus melewa
 * Score dimulai dari 0
 
 **3. Mekanisme Game**
-* Pemain bisa seperti "melompat" ke atas dengan menekan tombol spasi
+* Pemain bisa seperti "melompat" ke atas dengan menekan tombol 'spasi'
 * Pipa bergerak dari kanan ke kiri dengan interval tertentu
 * Pemain harus menghindari tabrakan dengan pipa
-* Skor bertambah setiap kali pemain berhasil melewati satu set pipa
+* Skor bertambah satu (+1) setiap kali pemain berhasil melewati satu set pipa
 
 **4. Game Over**
 * Game berakhir jika pemain menabrak pipa atau keluar dari batas layar (jatuh)
